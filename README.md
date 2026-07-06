@@ -14,10 +14,24 @@ This project aims to demonstrate production-ready backend development practices,
 - Clean and maintainable code
 
 
+## Technology Stack
+
+- Java 21
+- Spring Boot
+- Maven
+
+## Running the project
+
+```bash
+./mvnw spring-boot:run
+```
+
+or on Windows:
+
+```cmd
+mvnw.cmd spring-boot:run
+```
+
 ## Documentation
 
-Project documentation can be found in the `docs` directory.
-
-## Project Status
-
-🚧 Planning
+Project documentation is available in the `docs/` directory.
